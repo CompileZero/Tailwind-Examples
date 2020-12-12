@@ -1,5 +1,5 @@
 module.exports = {
-  purge: [],
+  purge: ["./index.html", "./Tailwind-Inbox-UI-2/index.html"],
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
