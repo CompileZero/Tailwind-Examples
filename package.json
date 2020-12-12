@@ -1,0 +1,25 @@
+{
+  "name": "Tailwind-Examples",
+  "version": "1.0.0",
+  "description": "Tailwind CSS Example Websites and Templates using HTML5 only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompileZero/Tailwind-Examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CompileZero/Tailwind-Examples/issues"
+  },
+  "homepage": "https://github.com/CompileZero/Tailwind-Examples#readme",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
