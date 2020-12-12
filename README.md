@@ -1,4 +1,4 @@
-# Tailwind-Examples
+# Tailwind-Websites
 
 Tailwind CSS Example Websites and Templates using HTML5 only.
 
